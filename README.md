@@ -27,7 +27,7 @@ This code is made available under the GPL license enclosed with the software. Fu
 Open Matlab (tested on versions 2018 and above) and navigate to the folder containing the source files.
 
 ### Understanding the file names
-There are essentially three file names: files with the prefix "f_" belong to the FEM analysis; files with the prefix "l_" belong to the Level-set analysis; files with no prefix are shared by both. 
+There are essentially three file names: files with the prefix "fem_" belong to the FEM analysis; files with the prefix "ls_" belong to the Level-set analysis; files with no prefix are shared by both. 
 
 ### Running the code
 You can run the code in two ways:
