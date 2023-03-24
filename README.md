@@ -1,4 +1,7 @@
-# A novel formulation for the explicit discretisation of evolving boundaries with application to topology optimisation
+# A novel formulation for the explicit discretisation of evolving boundaries with application to topology optimisation 
+
+[![DOI](https://badgen.net/badge/DOI/10.1016%2Fj.cma.2020.113077/cyan)](https://doi.org/10.1016/j.cma.2020.113077) [![DOI](https://zenodo.org/badge/232163541.svg)](https://zenodo.org/badge/latestdoi/232163541)
+---
 ## Authors  
 Rui O. S. S. da Costa ([r.costa18@imperial.ac.uk](mailto:r.costa18@imperial.ac.uk))  
 Silvestre T. Pinho ([silvestre.pinho@imperial.ac.uk](mailto:silvestre.pinho@imperial.ac.uk))
@@ -19,8 +22,10 @@ The proposed method is capable of explicit modelling evolving boundaries, by cou
 <br>
 
 ## How to use?
-This code is made available under the GPL license enclosed with the software. Further to the legal implications of the license, to use this code, please reference the following paper:  
-* [A novel formulation for the explicit discretisation of evolving boundaries with application to topology optimisation](https://doi.org/10.1016/j.cma.2020.113077)
+This code is made available under the GPL license enclosed with the software. Further to the legal implications of the license, to use this code, please reference:  
+* [the publication](https://doi.org/10.1016/j.cma.2020.113077) [![DOI](https://badgen.net/badge/DOI/10.1016%2Fj.cma.2020.113077/cyan)](https://doi.org/10.1016/j.cma.2020.113077)
+
+* [the correct software release](https://zenodo.org/badge/latestdoi/232163541) [![DOI](https://zenodo.org/badge/232163541.svg)](https://zenodo.org/badge/latestdoi/232163541)
 
 
 ### Opening the files
